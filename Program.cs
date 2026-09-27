@@ -4,3 +4,9 @@ Console.WriteLine("Name: ");
 
 
 // Added student name and section to console output
+
+// Added student name and section to console output
+
+// Added student name and section to console output
+// Added student name and section to console output
+// Added student name and section to console output
